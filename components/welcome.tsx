@@ -6,9 +6,8 @@ const Welcome = () => (
         <p className="mb-8 leading-relaxed">
           "Bienvenido a mi pequeño espacio de presentacion, estudie en la Universidad Nacional Autonoma de Honduras
           la carrera de Informatica Administrativa, empece a trabajar como analista programador en febrero del 2019 en el Banco Hondureño del Cafe,
-          Siempre he sostenido mi aficion por la tecnologia por lo que siempre he estado en constante investigación
-          <br/>          
-          En mi tiempo libre desarrollo proyectos personales en Reactjs utilizando el framework nextJS"
+          Siempre he sostenido mi aficion por la tecnologia por lo que siempre he estado en constante investigación, 
+          resolver problemas y encontrar soluciones que ayuden en los procesos hace que mi dia a dia sea mas ameno"                   
         </p>
         <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
           Juan Miguel García Sierra
