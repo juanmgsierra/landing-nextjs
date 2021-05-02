@@ -7,9 +7,9 @@ const header = () => (
                 <span className="ml-3 text-xl">Juan Garcia Blog</span>
             </a>
             <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
-                <a className="mr-5 hover:text-white">Inicio</a>
-                <a className="mr-5 hover:text-white">Github</a>
-                <a className="mr-5 hover:text-white">Linkedin</a>
+                <a href="./" className="mr-5 hover:text-white">Inicio</a>
+                <a href="https://github.com/juanmgsierra" target="_blank" className="mr-5 hover:text-white">Github</a>
+                <a href="https://www.linkedin.com/in/juanmgsierra/" target="_blank" className="mr-5 hover:text-white">Linkedin</a>
             </nav>  
         </div>
     </header>
