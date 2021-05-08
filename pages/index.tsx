@@ -1,11 +1,11 @@
 import Welcome from "../components/welcome";
-import Services from "../components/Services";
+import Header from "../components/header";
 
 export default function IndexPage() {
   return (
     <>
+      <Header />
       <Welcome />
-      <Services />
     </>
   );
 }
