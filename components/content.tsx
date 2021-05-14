@@ -1,5 +1,5 @@
-import Footer from './footer';
 const banner = require('../img/banner.jpg')
+
 const Content = () => (
 
     <div className="container px-5 py-24 mx-auto flex flex-col">
@@ -51,6 +51,9 @@ const Content = () => (
                     <nav className="flex flex-wrap list-none -mb-1">
                         <li className="lg:w-1/3 mb-1 w-1/2">
                             <a className="hover:text-white">SQL server</a>
+                        </li>
+                        <li className="lg:w-1/3 mb-1 w-1/2">
+                            <a className="hover:text-white">DB2</a>
                         </li>
                         <li className="lg:w-1/3 mb-1 w-1/2">
                             <a className="hover:text-white">NoSQL</a>

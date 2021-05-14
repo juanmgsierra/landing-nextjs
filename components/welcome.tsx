@@ -1,5 +1,5 @@
 import Content from "./content"
-import Footer from "./footer";
+import About from "./about";
 const logo = require("../img/me.jpg")
 const Welcome = () => (
   <section className="text-gray-400 bg-gray-900 body-font">    
@@ -31,7 +31,7 @@ const Welcome = () => (
     </div>
     <div className="h-1 bg-gray-800 rounded overflow-hidden"><div className="w-24 h-full bg-indigo-500"></div></div>    
     <Content/>
-    <Footer />
+    <About/>
   </section>
 );
 
